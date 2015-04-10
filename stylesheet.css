@@ -1,0 +1,27 @@
+h1 {
+    background-color:#ffffff;
+    color: #000000;
+    font-family:"Freestyle Script";
+    font-weight: Bolder;
+    text-align: Center;
+    font-size: 50px;
+    border: solid 5px;
+    width: 400px;
+    height: 60px;
+    margin:auto;
+    img src="https://36.media.tumblr.com/45037e549c13338f59b1f5b0658a89a7/tumblr_mtlc9lUSXy1r4a038o1_500.png" alt="flowerborder.png"
+ 
+}
+p {
+    background-color:#f5d8ff;
+    font-family:"Miriam Fixed";
+    font-weight: bolder;
+    text-align: Center;
+    border:solid 5px;
+    width: 400px;
+    height: 100px;
+    margin: auto;
+       margin-top:15px;
+}
+body {
+	background-image:
