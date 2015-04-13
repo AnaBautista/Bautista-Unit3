@@ -10,8 +10,6 @@ h1 {
     width: 400px;
     height: 60px;
     margin:auto;
-
- 
 }
 p {
     background-color:#f5d8ff;
@@ -22,13 +20,31 @@ p {
     width: 400px;
     height: 100px;
     margin: auto;
-       margin-top:15px;
+    margin-top:15px;
     padding: 20px;
 }
-a{
-font-family: "Andale Mono";
-font-weight: bolder;
-font-size: 20px;
+a {
+    font-family: "Andale Mono";
+    font-weight: bolder;
+    font-size: 20px;
+
 }
+
+body {
+    background-color:#fefcfd ;
+}
+
+h2{
+    font-family: "Miriam Fixed";
+    font-size: 15px;
+    text-align: Center;
+    border:dotted 3px;
+    width: 100px;
+    height: 200px;
+    margin: auto;
+    margin-top:10px;
+    padding: 30px
+    float: initial;
+    }
 
 
